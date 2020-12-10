@@ -46,7 +46,7 @@ Classic game of Pac-man.
 
 
 ## CLICK THIS LINK TO PLAY
-https://pages.git.generalassemb.ly/bhj0308/Jac-Man/
+https://hj7park.github.io/Jac-Man
 
 
 
