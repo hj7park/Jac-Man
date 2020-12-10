@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+}
+h2{
+    text-align:center; 
+}
+
+#map{
+    display:flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: center;
+}
+
+
+.col{
+    width:60px;
+    height:60px;
+    background-color:black;
+    text-align: center;
+    font-size:10px;
+}
+
+.btn {
+    background-color: white;
+    padding: 12px 16px;
+    cursor: pointer;
+    
+}
+
+.dot{
+    background-image:radial-gradient(white 10px, black 2px);
+    background-size:60px 60px;
+}
+
+img{
+    width:55px;
+    height:55px;
+}
+
+/*
+@media only screen and (min-width: 1500px){
+    .col{width:50%;}
+    .dot{width:50%;}
+    .map{width:50%;}
+}*/
+
+/*
+.pac-man{
+
+    animation: eat 1s linear infinite, 
+               movePacman 1s linear;
+}
+
+@keyframes eat {
+    0%, 50% { background: conic-gradient(yellow 55deg, transparent 0 125deg, yellow 0); }
+    25% { background: conic-gradient(yellow 55deg, yellow 0);}
+  }
+  
+
+@keyframes movePacman {
+    0% { transform: translate(0, 0) }
+    100% { transform: translate(100px, 0) }
+}*/
