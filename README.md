@@ -8,7 +8,7 @@ Classic game of Pac-man.
 ##### Each Map(grid style board) will be mazed and walled(blocked so user or the AI cannot go through).
 #
 ##### Winning condition for every stage would be collecting all the dots(points) on the map.
-##### Losing condition would be dying out of lives given(3 at default).***ONLY IMPLEMENTED 1 LIFE YET
+##### Losing condition would be dying out of lives given(3 at default).***Currently only implemented 1 life.
 #
 ##### Clearing the whole set of stages will be the ultimate win condition for the whole game.
 
