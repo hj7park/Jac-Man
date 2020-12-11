@@ -15,13 +15,13 @@ Classic game of Pac-man.
 
 
 
-
+## SCREEN SHOT OF THE GAME!
 ![image info](./img/screenshot.png)
 
 
 
 ## CLICK THIS LINK TO PLAY
-![Play!](https://hj7park.github.io/Jac-Man)
+[Play!](https://hj7park.github.io/Jac-Man)
 
 
 
