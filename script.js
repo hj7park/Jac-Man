@@ -34,6 +34,22 @@ const boardD = document.getElementById("map");
 let gameOver = document.getElementById("game-over");
 
 
+
+//
+let test = [[1,2,3,4,5],
+["a","b","c","d","e"]];
+
+console.log(test[0]) = [1,2,3,4,5];
+console.log(test[0][2]) = 3
+   x
+0 1 2 3 4 5
+1 
+2
+3
+4
+5
+y
+
 //map1
 const mazeMap1 = 
 [["A0",".",".",".","-1","-1",".",".",".","A2"],
@@ -46,6 +62,7 @@ const mazeMap1 =
 [".","-1",".","-1",".",".",".",".",".","."],
 [".","-1",".","-1","-1","-1",".","-1","-1","."],
 ["A3","-1",".",".",".",".",".","-",".","A1"]];
+
 const mazeMap2 = [[""],[""]];
 const stageMap = [mazeMap1,mazeMap2];
 
